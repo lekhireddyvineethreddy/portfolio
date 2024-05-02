@@ -62,7 +62,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/python.png"
+                    src="../src/assets/icons/java.png"
                     alt="Java"
                     className="img-fluid w-50"
                   />
@@ -83,6 +83,43 @@ const Skills = () => {
                   </h6>
                 </a>
               </div>
+              <div className="col-6 col-lg-4 py-3 px-3">
+                <a href="#" className="text-decoration-none">
+                  <img
+                    src="../src/assets/icons/redux.png"
+                    alt="Redux"
+                    className="img-fluid w-50"
+                  />
+                  <h6 className="text-white mt-3">
+
+                  </h6>
+                </a>
+              </div>
+              <div className="col-6 col-lg-4 py-3 px-3">
+                <a href="#" className="text-decoration-none">
+                  <img
+                    src="../src/assets/icons/next-js.png"
+                    alt="Next"
+                    className="img-fluid w-50"
+                  />
+                  <h6 className="text-white mt-3">
+
+                  </h6>
+                </a>
+              </div>
+              <div className="col-6 col-lg-4 py-3 px-3">
+                <a href="#" className="text-decoration-none">
+                  <img
+                    src="../src/assets/icons/firebase.png"
+                    alt="Firebase"
+                    className="img-fluid w-50"
+                  />
+                  <h6 className="text-white mt-3">
+
+                  </h6>
+                </a>
+              </div>
+
             </div>
             <p className="my-3 mx-3" id="skillsText">
               Embrace growth, each step forward gets you closer transforming

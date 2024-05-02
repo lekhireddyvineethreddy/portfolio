@@ -37,6 +37,13 @@ const Cover = () => {
             >
               <i className="fa-brands fa-instagram"></i>
             </a>
+            <a
+              href="mailto:lekhireddyvineeth@gmail.com"
+              target="_blank"
+              className="mx-2"
+            >
+              <i className="fas fa-envelope"></i>
+            </a>
           </div>
           <button
             onClick={() => window.open("https://drive.google.com/file/d/1JComJLR_YwvLJ18ExG9NMhHo3nx3_gR6/view?usp=sharing", "_blank")}
@@ -47,9 +54,9 @@ const Cover = () => {
         </div>
         <div className="col-12 col-lg-4 offset-lg-1 text-center order-1 order-lg-2 py-5">
           <img
-            src=""
+            src="../src/assets/my image.jpg"
             alt="vineethreddy"
-            className="img-fluid"
+            className="img-fluid rounded-circle"
           />
         </div>
       </div>

@@ -1,25 +1,23 @@
 ### Hi there 👋
->      I am Sisindri Singamsetti alias sisi_tarak 😉
+>      I am Lekhireddy Vineethreddy alias Vineeth 😉
 
 
 
 ### 🖥 About Mee!
 
-I am Full-stack Web Developer, Tech Lead & Tech Enthusiast from 🛕 India 🇮🇳.
+I am Fromt-End Web Developer, Tech Lead & Tech Enthusiast from 🛕 India 🇮🇳.
 
-- 🧑🏻‍🎓 | Dip UG @svec'23 CME
 - 🎯 | Web Developer @sisitarakk
-- 🧑🏻‍💻 | Full Stack Developer
+- 🧑🏻‍💻 | Front-End Web Developer
 - ✊ | Student Ambassador @Mass Coders
 
 
-![git](https://github.com/sisi-tarak/sisi-tarak/assets/124027883/5e0032f9-38ae-4ee8-be78-4a0c9e1643eb)
 
 
 ### 👨‍💻 Social Platforms!!
 
->   - 🫠 | [LinkedIN](https://www.linkedin.com/in/sisitarak/)
->   - 🤩 | [GitHub](https://github.com/sisi-tarak)
->   - 🫣 | [Instagram](https://www.instagram.com/sisi_tarakk/)
+>   - 🫠 | [LinkedIN](https://www.linkedin.com/in/lekhireddyvineethreddy/)
+>   - 🤩 | [GitHub](https://github.com/lekhireddyvineethreddy/)
+>   - 🫣 | [Instagram](https://www.instagram.com/mr__redwolf/)
 
 

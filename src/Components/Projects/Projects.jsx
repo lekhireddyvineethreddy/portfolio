@@ -11,29 +11,29 @@ const Projects = () => {
         <div class="row">
           <div class="col-12 col-md-6 px-4 py-4">
             <img
-              src="../src/assets/project 1.jpg"
+              src="../src/assets/project1.png"
               alt="Project 1"
               className="img-fluid shadow rounded projImg"
             />
           </div>
           <div class="col-12 col-md-6 px-4 py-4">
             <img
-              src="../src/assets/project 2.png"
+              src="../src/assets/project2.png"
               alt="Project 1"
               className="img-fluid shadow rounded projImg"
             />
           </div>
           <div class="col-12 col-md-6 px-4 py-4">
             <img
-              src="../src/assets/project 4.png"
+              src="../src/assets/project3.png"
               alt="Project 1"
               className="img-fluid shadow rounded projImg"
             />
           </div>
           <div class="col-12 col-md-6 px-4 py-4">
             <img
-              src="../src/assets/project 3.png"
-              alt="Project 1"
+              src="../src/assets/project4.png"
+              alt="Project 4"
               className="img-fluid shadow rounded projImg"
             />
           </div>
