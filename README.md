@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hi there 👋
 >      I am Lekhireddy Vineethreddy alias Vineeth 😉
 
@@ -20,4 +21,6 @@ I am Fromt-End Web Developer, Tech Lead & Tech Enthusiast from 🛕 India 🇮�
 >   - 🤩 | [GitHub](https://github.com/lekhireddyvineethreddy/)
 >   - 🫣 | [Instagram](https://www.instagram.com/mr__redwolf/)
 
+=======
+>>>>>>> 153a514f5cbdba44ef2d8a878a8fb71fa13ddf57
 
