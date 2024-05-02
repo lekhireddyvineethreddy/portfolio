@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg fixed-top">
       <div className="container my-2 pl-5">
         <a href="/" className="navbar-brand headerLink">
-          sisi_tarak
+          VineethReddy
         </a>
 
         <button
@@ -25,7 +25,7 @@ const Navbar = () => {
               About
             </a>
             <a href="#skills" className="navLink nav-link mx-2">
-              Skills
+              Tech Stack 
             </a>
             <a href="#projects" className="navLink nav-link mx-2">
               Projects

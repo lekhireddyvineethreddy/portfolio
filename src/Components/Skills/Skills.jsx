@@ -5,12 +5,12 @@ const Skills = () => {
   return (
     <div className="container-fluid my-5 py-5 text-center" id="skills">
       <h3 className="py-5 ">
-        My <span>Skillss</span>* {/* &#9733 &#9733 */}
+        My <span>Tech Stack </span> {/* &#9733 &#9733 */}
       </h3>
       <div className="container my-5 py-5 text-center" id="skillsContainer">
-        <div className="row align-items-center">
+        <div className="row align-items-center justify-content-center">
           <div className="col-12 col-lg-6 my-3">
-            <div className="row mx-3 align-items-center mb-5">
+            <div className="row mx-3 align-items-center mb-5 justify-content-center">
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
@@ -19,7 +19,7 @@ const Skills = () => {
                     className="img-fluid w-50"
                   />
                   <h6 className="text-white mt-3">
-                    <span>★★★★</span>★
+                    
                   </h6>
                 </a>
               </div>
@@ -31,7 +31,7 @@ const Skills = () => {
                     className="img-fluid w-50"
                   />
                   <h6 className="text-white mt-3">
-                    <span>★★★</span>★★
+                   
                   </h6>
                 </a>
               </div>
@@ -43,7 +43,7 @@ const Skills = () => {
                     className="img-fluid w-50"
                   />
                   <h6 className="text-white mt-3">
-                    <span>★★★</span>★★
+                   
                   </h6>
                 </a>
               </div>
@@ -55,7 +55,7 @@ const Skills = () => {
                     className="img-fluid w-50"
                   />
                   <h6 className="text-white mt-3">
-                    <span>★★★★</span>★
+                   
                   </h6>
                 </a>
               </div>
@@ -63,11 +63,11 @@ const Skills = () => {
                 <a href="#" className="text-decoration-none">
                   <img
                     src="../src/assets/icons/python.png"
-                    alt="Python"
+                    alt="Java"
                     className="img-fluid w-50"
                   />
                   <h6 className="text-white mt-3">
-                    <span>★★★</span>★★
+
                   </h6>
                 </a>
               </div>
@@ -79,7 +79,7 @@ const Skills = () => {
                     className="img-fluid w-50"
                   />
                   <h6 className="text-white mt-3">
-                    <span>★★★</span>★★
+                  
                   </h6>
                 </a>
               </div>
@@ -91,19 +91,6 @@ const Skills = () => {
               <span> 3s into 4s</span>, and <span>4s into 5s</span>, one at a
               time..!!
             </p>
-            <img
-              src="../src/assets/sign.png"
-              alt="sisi_tarak"
-              className="img-fluid rounded w-50"
-              id="sign"
-            />
-          </div>
-          <div className="col-12 col-lg-6 my-3" id="skillImg">
-            <img
-              src="../src/assets/s.jpg"
-              alt="sisi_tarak"
-              className="img-fluid shadow rounded w-75"
-            />
           </div>
         </div>
       </div>

@@ -4,20 +4,13 @@ import "./AboutMe.css";
 const AboutMe = () => {
   return (
     <div className="container-fluid text-center my-5 py-5" id="about">
-      <h3 className="py-5 ">
+      <h3 className="py-5">
         About <span>Mee</span>!
       </h3>
       <div className="container my-5">
-        <div className="row align-items-center">
-          <div className="col-12 col-lg-4">
-            <img
-              src="../src/assets/sisi_tarakk.jpg"
-              alt="sisindri singamsetti"
-              className="img-fluid shadow"
-            />
-          </div>
-          <div className="col-12 col-lg-7 mx-3 pl-5 aboutRight">
-            <h4 className="mt-5">Sisindri Singamsetti</h4>
+        <div className="row justify-content-center">
+          <div className="col-12 col-lg-8 aboutRight">
+            <h4 className="mt-5">Lekhireddy Vineethreddy</h4>
             <h6 className="mt-4 mb-5">
               <i>
                 Front-end <span>Developer</span>!
